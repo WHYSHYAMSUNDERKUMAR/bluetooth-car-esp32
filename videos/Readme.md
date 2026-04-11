@@ -9,25 +9,25 @@ Due to GitHub file size limitations, full videos are hosted on YouTube.
 ## 🚗 Project Demonstration
 
 ### 🔹 Demo Video 1 – Full Car Control
+
+[![Watch Demo 1](https://img.youtube.com/vi/JiNiuHUY_Dw/0.jpg)](https://youtube.com/shorts/JiNiuHUY_Dw)
+
 This video shows:
 - Forward & Backward movement  
 - Left & Right turning  
 - Real-time mobile control  
 
-👉 Watch here:  
-https://youtube.com/shorts/JiNiuHUY_Dw  
-
 ---
 
 ### 🔹 Demo Video 2 – Lights & Horn Features
+
+[![Watch Demo 2](https://img.youtube.com/vi/YEdfubuLHkc/0.jpg)](https://youtube.com/shorts/YEdfubuLHkc)
+
 This video demonstrates:
 - Front Light  
 - Back Light  
 - Hazard Lights (all indicators blinking)  
 - Horn / Buzzer system  
-
-👉 Watch here:  
-https://youtube.com/shorts/YEdfubuLHkc  
 
 ---
 
@@ -38,7 +38,7 @@ https://youtube.com/shorts/YEdfubuLHkc
 ---
 
 ## 🎯 Purpose
-These videos showcase the real-time working and functionality of the project, including both movement and hardware features.
+These videos showcase the real-time working and functionality of the project.
 
 ---
 
