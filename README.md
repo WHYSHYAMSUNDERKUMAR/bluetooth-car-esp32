@@ -43,5 +43,5 @@ This project is a feature-rich Bluetooth-controlled smart car built using ESP32.
 ## 📷 Project Images
 (Add your images in the `images/` folder and update below)
 ```markdown
-![Car](images/car.jpg)
+![Car](images/image (1).jpg)
 ![Circuit](images/circuit.jpg)
