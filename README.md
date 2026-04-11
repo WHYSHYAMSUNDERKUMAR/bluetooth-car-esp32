@@ -6,17 +6,17 @@ This project is a feature-rich Bluetooth-controlled smart car built using ESP32.
 ---
 
 ## 🚀 Features
-- 📱 Bluetooth-based mobile control
+- 📱 Bluetooth-based mobile control  
 - 🔄 Movement control:
-  - Forward
-  - Backward
-  - Left
-  - Right
-- 💡 Front Light control
-- 🔴 Back Light control
-- ⚠️ Hazard Light (all indicators blinking)
-- 🔊 Horn / Buzzer system
-- ⚡ Real-time response
+  - Forward  
+  - Backward  
+  - Left  
+  - Right  
+- 💡 Front Light control  
+- 🔴 Back Light control  
+- ⚠️ Hazard Light (all indicators blinking)  
+- 🔊 Horn / Buzzer system  
+- ⚡ Real-time response  
 
 ---
 
@@ -32,12 +32,50 @@ This project is a feature-rich Bluetooth-controlled smart car built using ESP32.
 ---
 
 ## ⚙️ How It Works
-- The mobile app sends commands via Bluetooth  
-- ESP32 receives the commands and processes them  
-- Motor driver controls movement of the car  
-- LEDs are controlled for front, back, and hazard lighting  
-- Buzzer is activated for horn functionality  
+- Mobile app sends commands via Bluetooth  
+- ESP32 receives signals and processes them  
+- Motor driver controls movement  
+- LEDs and buzzer are triggered based on commands  
 
 ---
 
+## 🎥 Demo Videos
 
+### 🔹 Demo Video 1 (Full Car Control)
+[![Watch Demo 1](https://img.youtube.com/vi/JiNiuHUY_Dw/0.jpg)](https://youtube.com/shorts/JiNiuHUY_Dw)
+
+### 🔹 Demo Video 2 (Lights + Horn + Hazard)
+[![Watch Demo 2](https://img.youtube.com/vi/YEdfubuLHkc/0.jpg)](https://youtube.com/shorts/YEdfubuLHkc)
+
+---
+
+## 📁 Video Folder
+Demo videos are maintained externally due to size limits.  
+You can access them from the links above or place compressed clips inside the `videos/` folder if needed.
+
+---
+
+## 💻 Source Code
+The complete Arduino code is available in the `code/` folder.
+
+---
+
+## 📷 Project Images
+(images in the `images/` folder)
+
+---
+
+## 🔥 Key Highlights
+- Fully functional real-world hardware project  
+- Multiple features integrated in one system  
+- Demonstrates embedded systems + IoT concepts  
+- Real-time wireless control  
+
+---
+
+## 👨‍💻 Author
+Shyam Sunder Kumar  
+
+---
+
+⭐ If you like this project, don't forget to star the repository!
