@@ -42,10 +42,10 @@ This project is a feature-rich Bluetooth-controlled smart car built using ESP32.
 ## 🎥 Demo Videos
 
 ### 🔹 Demo Video 1 (Full Car Control)
-[![Watch Demo 1](https://img.youtube.com/vi/JiNiuHUY_Dw/0.jpg)](https://youtube.com/shorts/JiNiuHUY_Dw)
+👉 https://youtube.com/shorts/JiNiuHUY_Dw  
 
 ### 🔹 Demo Video 2 (Lights + Horn + Hazard)
-[![Watch Demo 2](https://img.youtube.com/vi/YEdfubuLHkc/0.jpg)](https://youtube.com/shorts/YEdfubuLHkc)
+👉 https://youtube.com/shorts/YEdfubuLHkc  
 
 ---
 
