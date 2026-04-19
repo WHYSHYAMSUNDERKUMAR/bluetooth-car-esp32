@@ -62,6 +62,9 @@ The complete Arduino code is available in the `code/` folder.
 
 ## 📷 Project Images
 (images in the `images/` folder)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WHYSHYAMSUNDERKUMAR/bluetooth-car-esp32/main/images/smart%20car%20esp32.jpg" width="800"/>
+</p>
 
 ---
 
